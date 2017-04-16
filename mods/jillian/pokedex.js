@@ -1030,7 +1030,7 @@ exports.BattlePokedex = {
 		types: ["Water", "Dragon"],
 		baseStats: {hp: 95, atk: 60, def: 134, spa: 145, spd: 145, spe: 61},
 		abilities: {0: "Multiscale"},
-          }, 
+          },
      vileplume: {
 		inherit: true,
 		abilities: {0: "Chlorophyll", H: "Effect Spore"},
@@ -1046,5 +1046,5 @@ exports.BattlePokedex = {
 		baseStats: {hp: 75, atk: 80, def: 115, spa: 150, spd: 110, spe: 60},
 		abilities: {0: "Toxic Emanations"},
           }, 
-};
+ };
 /* https://pastebin.com/8SudG3w9 */
