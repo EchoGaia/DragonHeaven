@@ -2,7 +2,7 @@
 
 exports.BattleStatuses = {
 
-	"poisonscent": {
+	poisonscent: {
 		effectType: 'Weather',
 		duration: 5,
 	},
