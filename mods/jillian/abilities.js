@@ -418,7 +418,7 @@ exports.BattleAbilities = {
 			if (move.category !== 'Status' && !move.selfdestruct && !move.multihit && !move.flags['charge'] && !move.spreadHit && !move.isZ) {
 				move.multihit = 2;
 				source.addVolatile('duosweep');
-			}
+			},
 		},
 		effect: {
 			duration: 1,
